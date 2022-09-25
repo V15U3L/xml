@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+
+  <product>
+    <ref>0000</ref>
+    <title>title</title>
+    <content>content</content>
+    <category>test</category>
+    <subcategory></subcategory>
+    <price>999€</price>
+    <price_descr></price_descr>
+    <year>2000</year>
+    <month>01</month>
+    <day>01</day>
+    <detail_url></detail_url>
+    <buy_url></buy_url>
+    <pictures>
+      <picture_url></picture_url>
+    </pictures>
+  </product>
+
+</list>
